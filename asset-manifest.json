@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jainams7.github.io/mind-palace/static/css/main.dc4d6ff2.css",
+    "main.js": "/jainams7.github.io/mind-palace/static/js/main.3f6994a9.js",
+    "index.html": "/jainams7.github.io/mind-palace/index.html",
+    "main.dc4d6ff2.css.map": "/jainams7.github.io/mind-palace/static/css/main.dc4d6ff2.css.map",
+    "main.3f6994a9.js.map": "/jainams7.github.io/mind-palace/static/js/main.3f6994a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.3f6994a9.js"
+  ]
+}
