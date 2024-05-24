@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mind-palace/static/css/main.dc4d6ff2.css",
-    "main.js": "/mind-palace/static/js/main.3f6994a9.js",
+    "main.js": "/mind-palace/static/js/main.55e1c365.js",
     "index.html": "/mind-palace/index.html",
     "main.dc4d6ff2.css.map": "/mind-palace/static/css/main.dc4d6ff2.css.map",
-    "main.3f6994a9.js.map": "/mind-palace/static/js/main.3f6994a9.js.map"
+    "main.55e1c365.js.map": "/mind-palace/static/js/main.55e1c365.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.3f6994a9.js"
+    "static/js/main.55e1c365.js"
   ]
 }
